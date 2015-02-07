@@ -10,6 +10,7 @@ namespace InternetMVC.Controllers
     {
         public ActionResult Index()
         {
+            //Add some comment!
             ViewBag.Message = "Modify this template to jump-start your ASP.NET MVC application.";
 
             return View();
